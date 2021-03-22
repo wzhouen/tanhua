@@ -14,4 +14,5 @@ public class User extends BasePojo {
     private String password; //密码，json序列化时忽略
 //    private Date created;
 //    private Date updated;
+    private String userA; // 用户A新增字段
 }
