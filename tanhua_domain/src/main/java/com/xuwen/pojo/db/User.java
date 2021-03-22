@@ -15,4 +15,5 @@ public class User extends BasePojo {
 //    private Date created;
 //    private Date updated;
     private String userA; // 用户A新增字段
+	private String userB; // 用户B新增字段
 }
